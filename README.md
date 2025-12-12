@@ -1,7 +1,7 @@
 ## About Me 👋
 
 - I’m a third-year student at Mahidol University, majoring in Digital Science and Technology.
-- My study focuses on DevOps, Site Reliability Engineering (SRE), Software Engineering and Data Science
+- My study focuses on DevOps, Site Reliability Engineering (SRE), Software Engineering and Data Science.
 
 ## Tech Stack
 
@@ -14,8 +14,13 @@
 ### 🎨 Frontend & Testing
 [![Frontend Skills](https://skillicons.dev/icons?i=react,html,css,js)](https://skillicons.dev)
 
+### 🚀 Next Stage & Future Focus
+[![Next Skills](https://skillicons.dev/icons?i=terraform,go,gitlab,jenkins,redis,matlab)](https://skillicons.dev)
 
 ![Pipatq's GitHub stats](https://github-readme-stats.vercel.app/api?username=pipatq&commits_year=YYYY)
+
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail&logoColor=white)](mailto:pipatpong3432@gmail.com)
+### 🎨 Next
 
 <!--
 **Pipatq/Pipatq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
