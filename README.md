@@ -24,7 +24,8 @@
 ### 🔭 Senior Project: TB Cough Analysis
 > **"Detecting Tuberculosis from Cough Sounds & Metadata"**
 >
-> Currently building an ML-driven application that transforms audio into insights.
+> 📅 **Timeline:** Upcoming (Year 3 Sem 2 - Year 4)
+> An ML-driven application project that transforms audio into insights.
 >
 > * 🎙️ **Input:** Audio Processing (Cough Sounds) + Metadata
 > * 🧠 **Model:** Binary Classification (TB / Non-TB)
