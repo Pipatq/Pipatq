@@ -20,6 +20,7 @@
 
 ![Pipatq's GitHub stats](https://github-readme-stats.vercel.app/api?username=pipatq&commits_year=YYYY)
 
+### Contact me
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail&logoColor=white)](mailto:pipatpong3432@gmail.com)
 
 <!--
