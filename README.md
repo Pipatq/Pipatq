@@ -1,5 +1,9 @@
-## Hi there 👋
+## About Me 👋
 
+I’m a third-year student at Mahidol University, majoring in Digital Science and Technology.
+My study focuses on DevOps, Site Reliability Engineering (SRE), Software Engineering and Data Science
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=YYYY)
 <!--
 **Pipatq/Pipatq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
