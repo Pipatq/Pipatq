@@ -25,6 +25,7 @@
 > **"Detecting Tuberculosis from Cough Sounds & Metadata"**
 >
 > 📅 **Timeline:** Upcoming (Year 3 Sem 2 - Year 4)
+>
 > An ML-driven application project that transforms audio into insights.
 >
 > * 🎙️ **Input:** Audio Processing (Cough Sounds) + Metadata
