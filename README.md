@@ -1,7 +1,8 @@
 ## About Me 👋
 
-- I’m a third-year student at Mahidol University, majoring in Digital Science and Technology.
-- My study focuses on DevOps, Site Reliability Engineering (SRE), Software Engineering and Data Science.
+* 🎓 3rd-year **ICT Student** at Mahidol University.
+* 🚀 I specialize in **DevOps & Cloud Native Infrastructure**.
+* 💻 Passionate about orchestrating scalable systems with **Kubernetes (GKE)**, **GCP**, and automating workflows with **CI/CD**.
 
 ## Tech Stack
 
