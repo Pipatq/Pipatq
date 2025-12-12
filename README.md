@@ -19,6 +19,7 @@
 ### 🚀 Next Stage & Future Focus
 [![Next Skills](https://skillicons.dev/icons?i=terraform,go,gitlab,jenkins,redis,matlab)](https://skillicons.dev)
 
+## Github stats
 ![Pipatq's GitHub stats](https://github-readme-stats.vercel.app/api?username=pipatq&commits_year=YYYY)
 
 ### 🔭 Senior Project: TB Cough Analysis
