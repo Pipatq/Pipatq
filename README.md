@@ -3,7 +3,7 @@
 * 🎓 3rd-year **ICT Student** at Mahidol University.
 * 📚 **Major Track:** Software Engineering & Data Science.
 * 🚀 I specialize in **DevOps & Cloud Native Infrastructure**.
-* 💻 Passionate about orchestrating scalable systems with **Kubernetes (GKE)**, **GCP**, and automating workflows with **CI/CD**.
+* 💻 Passionate about orchestrating scalable systems with **Kubernetes** and automating workflows with **CI/CD**.
 
 ## Tech Stack
 
