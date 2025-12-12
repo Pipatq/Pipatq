@@ -1,7 +1,7 @@
 ## About Me 👋
 
-#I’m a third-year student at Mahidol University, majoring in Digital Science and Technology.
-#My study focuses on DevOps, Site Reliability Engineering (SRE), Software Engineering and Data Science
+# I’m a third-year student at Mahidol University, majoring in Digital Science and Technology.
+# My study focuses on DevOps, Site Reliability Engineering (SRE), Software Engineering and Data Science
 
 ## Tech Stack
 
